@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Temperatura/static/css/main.be1b5750.css",
+    "main.js": "/Temperatura/static/js/main.ced858af.js",
+    "index.html": "/Temperatura/index.html",
+    "main.be1b5750.css.map": "/Temperatura/static/css/main.be1b5750.css.map",
+    "main.ced858af.js.map": "/Temperatura/static/js/main.ced858af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be1b5750.css",
+    "static/js/main.ced858af.js"
+  ]
+}
